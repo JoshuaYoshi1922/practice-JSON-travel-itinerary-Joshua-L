@@ -1,0 +1,42 @@
+{
+    "tripName": "The Paper Trail",
+    "travler": {
+        "name": "Michael Scott",
+        "contactInfo": {
+            "email": "michael.scott@dundermifflin.com",
+            "phone": "(212) 555-6733 ext 2102"
+        },
+        "Destinations": [
+            {
+                "location": "New York City, New York",
+                "arrivalDate": "2025-06-15",
+                "departureDate": "2025-06-17",
+                "activities": [
+                    {
+                        "title": "Hang out with Jan",
+                        "time": "08:00 AM"
+                    },
+                    {
+                        "title": "Hang out with Jan even more",
+                        "time": "12:00 PM"
+                    }
+                ]
+            },
+            {
+                "location": "Scranton, Pennsylvania",
+                "arrivalDate": "2025-06-20",
+                "departureDate": "2025-06-22",
+                "activities": [
+                    {
+                        "title": "Hang out with Jim and Pam",
+                        "time": "1:00 PM"
+                    },
+                    {
+                        "title": "Babysit Jim and Pam's baby",
+                        "time": "6:00 PM"
+                    }
+                ]
+            }
+        ]
+    }
+}
