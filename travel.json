@@ -2,10 +2,10 @@
     "tripName": "The Paper Trail",
     "travler": {
         "name": "Michael Scott",
-        "contactInfo": {
-            "email": "michael.scott@dundermifflin.com",
-            "phone": "(212) 555-6733 ext 2102"
-        },
+        "contactInfo": [
+            {"email": "michael.scott@dundermifflin.com"},
+            {"phone": "(212) 555-6733 ext 2102"}
+        ],
         "Destinations": [
             {
                 "location": "New York City, New York",
